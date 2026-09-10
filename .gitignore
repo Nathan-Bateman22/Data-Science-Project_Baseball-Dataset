@@ -1,5 +1,2 @@
 core/
-.venv/
 .ipynb_checkpoints/
-analysis_outputs/
-__pycache__/
